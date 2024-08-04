@@ -12,9 +12,9 @@ func main() {
 	fmt.Println("----------------------------------")
 	fmt.Println("Boolean")
 	fmt.Println(true && true)
-    fmt.Println(true && false)
-    fmt.Println(true || true)
-    fmt.Println(true || false)
-    fmt.Println(!true)
+	fmt.Println(true && false)
+	fmt.Println(true || true)
+	fmt.Println(true || false)
+	fmt.Println(!true)
 	fmt.Println("----------------------------------")
 }
